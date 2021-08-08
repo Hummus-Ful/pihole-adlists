@@ -1,8 +1,8 @@
 # Tiktok
-musical.ly
-muscdn.com
-tiktok.com
-tiktokv.com
-tiktokcdn.com
-tiktokcdn-com.akamaized.net
-p16-tiktokcdn-com.akamaized.net
+0.0.0.0 musical.ly
+0.0.0.0 muscdn.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
